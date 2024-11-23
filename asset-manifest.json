@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aintpablos/simplebio.git/static/css/main.35ed6ab8.css",
+    "main.js": "/aintpablos/simplebio.git/static/js/main.6f355c5c.js",
+    "index.html": "/aintpablos/simplebio.git/index.html",
+    "main.35ed6ab8.css.map": "/aintpablos/simplebio.git/static/css/main.35ed6ab8.css.map",
+    "main.6f355c5c.js.map": "/aintpablos/simplebio.git/static/js/main.6f355c5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ed6ab8.css",
+    "static/js/main.6f355c5c.js"
+  ]
+}
