@@ -1,0 +1,6 @@
+.Subtitle {
+    margin-top: 5px;   /* Reduce space between title and subtitle */
+    margin-bottom: 5px; /* Reduce space between subtitle and next element */
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}

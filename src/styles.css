@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #000; /* Black background */
+  }
+  
+  .App {
+  text-align: center;
+  padding: 20px;
+  }
+  
+  a {
+  color: #4a00e0;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+  }
+  
+  a:hover {
+  color: #8e2de2;
+  }
+  
+  .Footer {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: white;
+  }

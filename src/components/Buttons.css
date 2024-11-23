@@ -1,0 +1,24 @@
+.Buttons {
+    display: flex;
+    justify-content: center; /* Center the buttons horizontally */
+    margin-top: 10px; /* Reduce spacing above buttons */
+    }
+    
+    .Buttons a {
+    margin: 5px; /* Reduce margin between buttons */
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #333333;
+    border: 2px solid #000000; /* Add border */
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    
+    .Buttons a:hover {
+    background-color: #000000;
+    color: #fff;
+    }

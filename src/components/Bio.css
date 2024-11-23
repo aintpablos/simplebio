@@ -1,0 +1,22 @@
+.Bio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5% auto; /* Reduce vertical position */
+    max-width: 600px;
+    padding: 10px;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #333333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center the content */
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    }
+
+    .Bio h2 {
+        margin-bottom: 5px;/*Reduce space below the heading/
+    }
+    .Bio p{
+        margin-top: 5px;/Reduce space above the paragraph*/
+    }
